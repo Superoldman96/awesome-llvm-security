@@ -203,6 +203,7 @@ npx skills add https://github.com/gmh5225/awesome-llvm-security --skill binary-l
 - https://github.com/loyaltypollution/ida2llvm [IDA to LLVM]
 - https://github.com/metalift/metalift [A program synthesis framework for verified lifting applications]
 - https://github.com/binsnake/picanha [claude opus x86_64 disassembler/lifter/recompiler]
+- https://github.com/binsnake/omill [Based remill]
 
 ## libcxx
 - https://github.com/topjohnwu/libcxx [Without Exception and RTTI]
