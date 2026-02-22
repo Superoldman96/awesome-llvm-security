@@ -148,6 +148,7 @@ npx skills add https://github.com/gmh5225/awesome-llvm-security --skill binary-l
 - https://github.com/rottaj/obfuscator-llvm [Some fixes to eShard's LLVM obfuscator to support LLVM 19 and updated README for Windows installment]
 - https://github.com/PeterHackz/zyrox [LLVM based, compile-time obfuscator plugin]
 - https://github.com/thebabush/llvm-jutsu [Anti-LLM obfuscation via finger counting]
+- https://github.com/expend20/shifting-codes-python-port [Python port of Pluto, Polaris, riscy-business, and VMwhere passes using llvm-nanobind; PyQt6 visualization UI]
 
 ## MSVC Warbird
 - https://github.com/gmh5225/warbird-docs [Documentation of Microsoft's Warbird obfuscation]
