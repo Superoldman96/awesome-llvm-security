@@ -207,6 +207,7 @@ npx skills add https://github.com/gmh5225/awesome-llvm-security --skill binary-l
 - https://github.com/metalift/metalift [A program synthesis framework for verified lifting applications]
 - https://github.com/binsnake/picanha [claude opus x86_64 disassembler/lifter/recompiler]
 - https://github.com/binsnake/omill [Based remill]
+- https://github.com/momo5502/levo [Levo is an ahead-of-time binary translation toolchain]
 
 ## libcxx
 - https://github.com/topjohnwu/libcxx [Without Exception and RTTI]
