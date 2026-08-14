@@ -161,6 +161,7 @@ npx skills add https://github.com/gmh5225/awesome-llvm-security --skill binary-l
 - https://github.com/19h/morok [New-PM IR obfuscator]
 - https://github.com/NeverSight/NeverC [The AI-friendly C23 compiler for security research, built on LLVM]
 - https://github.com/Zydak/LeetObfuscator [A very simple obfuscator for C/C++ x64 and x86 code]
+- https://github.com/Apich-Organization/ensia [OLLVM-Next (Ensia): The next generation LLVM based Obfuscator]
 
 ## MSVC Warbird
 - https://github.com/gmh5225/warbird-docs [Documentation of Microsoft's Warbird obfuscation]
