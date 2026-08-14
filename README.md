@@ -160,6 +160,7 @@ npx skills add https://github.com/gmh5225/awesome-llvm-security --skill binary-l
 - https://github.com/ykus4/kagura [LLVM-based code obfuscation and anti-tamper toolkit for mobile, desktop, and WebAssembly targets]
 - https://github.com/19h/morok [New-PM IR obfuscator]
 - https://github.com/NeverSight/NeverC [The AI-friendly C23 compiler for security research, built on LLVM]
+- https://github.com/Zydak/LeetObfuscator [A very simple obfuscator for C/C++ x64 and x86 code]
 
 ## MSVC Warbird
 - https://github.com/gmh5225/warbird-docs [Documentation of Microsoft's Warbird obfuscation]
